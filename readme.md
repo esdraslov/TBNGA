@@ -2,8 +2,6 @@
 
 The best number-guessing AI (TBNGA) is NOT a machine learning algorithm, but an algorithm that uses random, min, max and etc to guess any number between min and max. Using a bit of math it's possible to guess a number with a high probability of success. also made of javascript and originally designed in python, it's guess correct 99,9% of time (100% approved and tested), 72% of time it's guess correct in the 6th try, and 20% of time it's guess correct in the 10th try. the rest is between 2-6, somehow 10% it's first try
 
-
-
 ## How to install (method NGAI.install)
 
 1. Install Node.js
