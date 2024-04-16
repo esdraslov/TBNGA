@@ -11,14 +11,6 @@ The best number-guessing AI (TBNGA) is NOT a machine learning algorithm, but an 
 3. Install the package using NPM
 4. Run the code
 
-### Example
-
-```javascript
-let NGAI = require("NGAI")
-```
-    
-`
-
 ## How to use (method NGAI.guess)
 
 1. Set the min and max values for the number. (param 1 and param 2)
